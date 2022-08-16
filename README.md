@@ -30,6 +30,7 @@ As such, I decided to only carry the bug fixes and potentially some improvements
 I may make a Discord eventually. For now, just shoot me a message at Github.
 
 If you want to show your support, you can [tip me a coffee](https://ko-fi.com/khotul)
+
 _This project is made out of passion, work on it and support will continue/stop regardless of any profit I make.
 The option to donate me is only there for people who want to show their support towards the project, and will help to motivate me._
 
